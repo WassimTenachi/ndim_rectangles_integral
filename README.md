@@ -1,4 +1,4 @@
-# ndim_rectangles_integral
+# N-dimension rectangles integral
 N-dimension integration using the textbook rectangles method.
 
 Keywords
