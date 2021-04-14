@@ -1,5 +1,5 @@
 # N-dimension rectangles integral
-N-dimension integration using the textbook rectangles method.
+N-dimension integration using the textbook rectangles method using numpy/python3.
 v0.1
 
 Keywords:
