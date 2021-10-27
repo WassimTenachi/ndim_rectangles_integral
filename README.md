@@ -4,4 +4,4 @@ v0.1
 
 Keywords:
 
-N-dimension ; integration ; integral ; multidimensional ; rectangles ; hyperrectangles; python ; numpy
+N-dimension ; integration ; integral ; multidimensional ; rectangles ; hyperrectangles ; python ; numpy
